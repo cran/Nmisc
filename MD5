@@ -1,7 +1,7 @@
-25f29590d81d8f3c2478ec9c08edc59f *DESCRIPTION
+21831711bc1c4ac64af41947b7a7ad70 *DESCRIPTION
 1225e1d99e138225bb972d6f1f67a6f7 *LICENCE
 46c039890f98a3e4df50e67cad03e181 *NAMESPACE
-dd39fcd8116e812eeb2e241c222de862 *NEWS.md
+11b8f2f1f1dc45e825d5177b319a4941 *NEWS.md
 e59bf76c47d5bc3ed75ece86dac4f10d *R/date-time.R
 58a1f70f3b0679f09f4e2e5fb4e4923c *R/dplyr-misc.R
 6eeaaac3a596e8dea4f35ea8fad5f398 *R/os.R
@@ -12,7 +12,7 @@ c9f88efcded6da62c4a0470f97328586 *R/project_packages.R
 a4a5898a91195e04e25fc3482dc173a0 *R/set-misc.R
 d51dec654424f4f81d15ec9b6b32d6ab *R/str.R
 c4dcfea29f2b9a262b4aeaa9bfc00ded *R/warnings.R
-8e1acc211c8cd97a7ce9393aa523cca4 *README.md
+9d51ae472f418400071fc4078662faf4 *README.md
 000e219ba6fd58238db8b929988e8d4a *man/catn.Rd
 92dfb420b77001cf5f2d07af9d4a9b86 *man/clear_warnings.Rd
 d604960eecbdda7b3fba179ce9957c51 *man/format_utc.Rd
@@ -32,7 +32,7 @@ b15f784a775d31b3e04e7411787ecd42 *tests/testthat.R
 65e34465eab03e8576e34d3ad1e514e4 *tests/testthat/test_date-time.R
 2201d48a40f4cf543b283e37b99863a5 *tests/testthat/test_dplyr-misc.R
 7a9947f40bfed15e0a067c2d8ad027ef *tests/testthat/test_keep.R
-830ff6efcff7bed44baa9bdd7d3968ac *tests/testthat/test_project_packages.R
+8909be219447fde8e8e2b395a430c8e4 *tests/testthat/test_project_packages.R
 b26f79b59e80f214f9d2d30363b7cbba *tests/testthat/test_purrr.R
 f248e329cb9e3aab3355dba8f4e7f36f *tests/testthat/test_seq.R
 474f13b0c1bcb29942c548214b217748 *tests/testthat/test_setequal.R
