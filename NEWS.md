@@ -1,6 +1,17 @@
+# Nmisc 0.3.5
+
+- fixed tests to address issue #9 and `tidyselect` updates
+
+
+# Nmisc 0.3.4
+
+- support tidyeval for `dplyr` and `purrr` related function
+
+
 # Nmisc 0.3.3
 
 - fix generate_install_file test (#8)
+
 
 # Nmisc 0.3.2
 
