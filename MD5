@@ -1,7 +1,7 @@
-9404c563000faa18166454dd1289349d *DESCRIPTION
+27c13c28939a84fc457c54cee11393e0 *DESCRIPTION
 1225e1d99e138225bb972d6f1f67a6f7 *LICENCE
 46c039890f98a3e4df50e67cad03e181 *NAMESPACE
-78c0d4fbd4d37d10e8a03dc2df2f7a16 *NEWS.md
+76dbb20e5351935a7d0e31c4eaca616c *NEWS.md
 e59bf76c47d5bc3ed75ece86dac4f10d *R/date-time.R
 8020a16835fa5ca07c9e5cff4e3b0b63 *R/dplyr-misc.R
 6eeaaac3a596e8dea4f35ea8fad5f398 *R/os.R
@@ -12,13 +12,13 @@ c9f88efcded6da62c4a0470f97328586 *R/project_packages.R
 a4a5898a91195e04e25fc3482dc173a0 *R/set-misc.R
 d51dec654424f4f81d15ec9b6b32d6ab *R/str.R
 c4dcfea29f2b9a262b4aeaa9bfc00ded *R/warnings.R
-075904beea3fbbeb437202c9dd726417 *README.md
+e49a38bb79df00813acedd010df74ac8 *README.md
 000e219ba6fd58238db8b929988e8d4a *man/catn.Rd
 92dfb420b77001cf5f2d07af9d4a9b86 *man/clear_warnings.Rd
 d604960eecbdda7b3fba179ce9957c51 *man/format_utc.Rd
-8fcf9bd421e9351d8e2f12cb15bd799b *man/generate_install_file.Rd
+d20b3930dab8b5b1882601b6f8b2f574 *man/generate_install_file.Rd
 f2742a35c5d2cd3a8f81c439b31a0a9b *man/get_os.Rd
-1d3fc59cb51151431e2b953c14fbc530 *man/get_packages.Rd
+e92cc2f026825bf1453d5bec07589b06 *man/get_packages.Rd
 f8efb393feee893beb908440c2997843 *man/is.POSIXct.Rd
 cca9e3da5f38109745d0f0a439611d35 *man/keep_at.Rd
 c18b79a69e4f603a0056e47f09dee4b1 *man/keep_if_in.Rd
@@ -36,4 +36,3 @@ b15f784a775d31b3e04e7411787ecd42 *tests/testthat.R
 5e0da32a8da9986482664082efdb422f *tests/testthat/test_purrr.R
 f248e329cb9e3aab3355dba8f4e7f36f *tests/testthat/test_seq.R
 474f13b0c1bcb29942c548214b217748 *tests/testthat/test_setequal.R
-5c668d30f4e44dcd3964d441a6519eef *tests/testthat/test_warn.R

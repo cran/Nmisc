@@ -1,7 +1,7 @@
 Package: Nmisc
 Type: Package
 Title: Miscellaneous Functions Used at 'Numeract LLC'
-Version: 0.3.5
+Version: 0.3.7
 Authors@R: c(
     person("Mike", "Badescu", email = "mike.badescu@numeract.com", role = c("aut", "cre")),
     person("Ana-Maria", "Niculescu", role = "aut"),
@@ -18,19 +18,18 @@ URL: https://github.com/numeract/Nmisc
 BugReports: https://github.com/numeract/Nmisc/issues
 License: MIT + file LICENCE
 Encoding: UTF-8
-LazyData: true
-RoxygenNote: 6.1.0
+RoxygenNote: 7.1.1
 Language: en-US
 Depends: R (>= 3.4)
 Imports: dplyr, magrittr, purrr, rappdirs, rlang, tibble, tidyselect,
         stringr
 Suggests: lubridate, testthat, covr
 NeedsCompilation: no
-Packaged: 2018-11-07 13:58:55 UTC; Mike
+Packaged: 2021-04-28 13:31:48 UTC; Mike
 Author: Mike Badescu [aut, cre],
   Ana-Maria Niculescu [aut],
   Teodor Ciuraru [ctb],
   Numeract LLC [cph]
 Maintainer: Mike Badescu <mike.badescu@numeract.com>
 Repository: CRAN
-Date/Publication: 2018-11-07 14:10:02 UTC
+Date/Publication: 2021-04-28 13:50:02 UTC
